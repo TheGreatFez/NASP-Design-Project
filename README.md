@@ -1,8 +1,6 @@
 # NASP Design Project
 
-This repository is for the TSoG X1 Aircraft Project. The repository is used to develop the simulation and testing needed to aid the design of the aircraft. The goal of the simulation is to be able to accurately simulate the TSoG X1 Aircraft to be able to predict the performance, size the wings and tail, and set up a platform for further development of aerospace projects.
-
-The simulation is developed in Octave 5.2.
+[NEED TO FILL OUT]
 
 ## Overview
 
@@ -54,7 +52,7 @@ When you are finished working on the issue, push the final changes to the reposi
 
 ### 4 Create A Pull Request
 
-On the TSoG_X1 GitHub website, navigate to the Pull Requests (PR) tab and follow these steps:
+On the GitHub repository website, navigate to the Pull Requests (PR) tab and follow these steps:
 
 1. Select "New Pull Request"
 2. In the "compare" drop down, select the branch you want to merge into master
